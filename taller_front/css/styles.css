@@ -1,0 +1,114 @@
+hr{
+    width: 80%;
+    margin: auto;
+    border: 1px solid;
+    color: black;
+}
+
+section{
+    width: 80%;
+    height: auto;
+    margin: auto;
+}
+
+.azul{
+    color: blue;
+}
+
+.rojo{
+    color: red;
+}
+
+#punto4 h2{
+    text-align: center;
+    font-size: 25px;
+    font-weight: bold;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.p1{
+    color: green;
+    text-decoration: underline;
+}
+
+.p2{
+    color: red;
+}
+
+.p3{
+    text-decoration: overline underline;
+}
+
+.p4{
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.p5{
+    color: blue;
+    font-weight: bold;
+}
+
+.p6{
+    color: red;
+    text-decoration: underline;
+    font-weight: bold;
+}
+
+#punto6 .diario1{
+    font-size: 25px;
+    color: yellow;
+    text-decoration: underline;
+    font-weight: bold;
+}
+
+#punto6 .diario2{
+    font-size: 25px;
+    color: purple;
+    text-decoration: underline;
+    font-weight: bold;
+}
+
+#punto7 nav{
+    background-color: rgb(233, 199, 233);
+}
+
+#punto7 ul{
+    display: inline-flex;
+}
+
+#punto7 li{
+    padding: 15px 10px;
+    list-style: none;
+}
+
+#punto7 i{
+   font-size: 18px;
+   color: white;
+   font-weight: bold;
+   font-style: normal;
+}
+
+#punto7 li:hover{
+   background-color: blue;
+}
+
+#punto8 table{
+    background-color: yellow;
+    border: 1px dotted black;
+}
+
+#punto8 table th:first-letter{
+    font-weight: bold;
+}
+
+#punto8 table th{
+    margin: none;
+    font-style: italic;
+    color: red;
+}
+
+#punto8 table td{
+    border: 1px dotted black;
+    padding: 0;
+}
